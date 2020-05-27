@@ -1,0 +1,6 @@
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Core\bin\Release\ContainerCalculator.Core.dll
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Core\bin\Release\ContainerCalculator.Core.pdb
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Core\obj\Release\ContainerCalculator.Core.csprojAssemblyReference.cache
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Core\obj\Release\ContainerCalculator.Core.csproj.CoreCompileInputs.cache
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Core\obj\Release\ContainerCalculator.Core.dll
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Core\obj\Release\ContainerCalculator.Core.pdb

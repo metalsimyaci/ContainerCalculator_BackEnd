@@ -1,0 +1,9 @@
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Service\bin\Debug\ContainerCalculator.Service.dll
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Service\bin\Debug\ContainerCalculator.Service.pdb
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Service\bin\Debug\ContainerCalculator.Core.dll
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Service\bin\Debug\ContainerCalculator.Core.pdb
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Service\obj\Debug\ContainerCalculator.Service.csprojAssemblyReference.cache
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Service\obj\Debug\ContainerCalculator.Service.csproj.CoreCompileInputs.cache
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Service\obj\Debug\ContainerCalculator.Service.csproj.CopyComplete
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Service\obj\Debug\ContainerCalculator.Service.dll
+D:\Project\hasanural\ContainerCalculator\ContainerCalculator.Service\obj\Debug\ContainerCalculator.Service.pdb
